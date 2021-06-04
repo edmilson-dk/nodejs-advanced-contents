@@ -4,6 +4,6 @@ Study article [NodeJS streams everything you need to know](https://www.freecodec
 
 ## Summary of examples
 
-- [Example 01]()
-- [Example 02]()
-- [Example 03]()
+- [Example 01](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/example-01.js)
+- [Example 02](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/example-02.js)
+- [Example 03](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/example-03.js)
