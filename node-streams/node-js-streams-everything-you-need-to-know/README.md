@@ -30,3 +30,5 @@ Study article [NodeJS streams everything you need to know](https://www.freecodec
 
 - [Example 01](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/built-in-transform-streams/example-01.js)
 - [Example 02](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/built-in-transform-streams/example-02.js)
+- [Example 03](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/built-in-transform-streams/example-03.js)
+- [Example 04](https://github.com/edmilson-dk/nodejs-advanced-contents/blob/main/node-streams/node-js-streams-everything-you-need-to-know/built-in-transform-streams/example-04.js)
