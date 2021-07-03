@@ -1,4 +1,4 @@
-import { pipeline, Readable } from "stream";
+import { pipeline, Readable, Writable } from "stream";
 import { promisify } from "util";
 
 const pipelineAsync = promisify(pipeline);
@@ -13,7 +13,14 @@ const readableStream = new Readable({
   }
 });
 
+const writableStream = new Writable({
+  write(chunk, encoding, cb) {
+    console.log("dados:", chunk.toString());
+    cb();
+  }
+});
+
 await pipelineAsync(
   readableStream,
-  process.stdout
+  writableStream,
 );
